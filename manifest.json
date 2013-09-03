@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Test",
-  "description": "Test Extension",
+  "description": "MSDN Toggle Extension",
   "version": "1.0",
 
   "icons": { 
